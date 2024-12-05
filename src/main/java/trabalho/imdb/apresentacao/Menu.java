@@ -1,0 +1,5 @@
+package trabalho.imdb.apresentacao;
+
+public enum Menu {
+    CADASTRARFILME, CADASTRARATOR, MOSTRARFILMES, MOSTRARATORES, MOSTRARFILME, MOSTRARATOR;
+}
